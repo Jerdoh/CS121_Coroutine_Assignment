@@ -1,3 +1,4 @@
 Sources for this project:
 https://www.tutorialspoint.com/unity/unity_coroutines.htm
 https://docs.unity3d.com/ScriptReference/Material.SetColor.html
+https://docs.unity3d.com/ScriptReference/GameObject-renderer.html
